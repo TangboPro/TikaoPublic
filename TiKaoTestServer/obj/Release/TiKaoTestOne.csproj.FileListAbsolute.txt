@@ -1,0 +1,15 @@
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Release\TiKaoTestOne.exe.config
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Release\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Release\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Release\log4net.dll
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Release\log4net.xml
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.csprojResolveAssemblyReference.cache
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\MainWindow.baml
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\MainWindow.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\App.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne_MarkupCompile.cache
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.g.resources
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.Properties.Resources.resources
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.csproj.GenerateResource.Cache
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Release\TiKaoTestOne.pdb

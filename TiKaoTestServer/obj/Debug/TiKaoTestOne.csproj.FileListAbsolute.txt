@@ -1,0 +1,45 @@
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\bin\Debug\TiKaoTestOne.exe.config
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.csprojResolveAssemblyReference.cache
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\MainWindow.baml
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\MainWindow.g.cs
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\App.g.cs
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne_MarkupCompile.cache
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.g.resources
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.Properties.Resources.resources
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.csproj.GenerateResource.Cache
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\bin\Debug\TiKaoTestOne.exe
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\bin\Debug\TiKaoTestOne.pdb
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\bin\Debug\log4net.dll
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\bin\Debug\log4net.xml
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.exe
+c:\users\tang\documents\visual studio 2013\Projects\TiKaoTestOne\obj\Debug\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne\bin\Debug\TiKaoTestOne.exe.config
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne\bin\Debug\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne\bin\Debug\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne\bin\Debug\log4net.xml
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.csprojResolveAssemblyReference.cache
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\MainWindow.baml
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\MainWindow.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\App.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne_MarkupCompile.cache
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.g.resources
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.Properties.Resources.resources
+C:\Users\Tang\Desktop\TiKaoTestOne\obj\Debug\TiKaoTestOne.csproj.GenerateResource.Cache
+C:\Users\Tang\Desktop\TiKaoTestOne\bin\Debug\log4net.dll
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Debug\TiKaoTestOne.exe.config
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Debug\TiKaoTestOne.exe
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Debug\TiKaoTestOne.pdb
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Debug\log4net.dll
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\bin\Debug\log4net.xml
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.csprojResolveAssemblyReference.cache
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\MainWindow.baml
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\MainWindow.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\App.g.cs
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne_MarkupCompile.cache
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.g.resources
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.Properties.Resources.resources
+C:\Users\Tang\Desktop\TiKaoTestOne - 副本\obj\Debug\TiKaoTestOne.csproj.GenerateResource.Cache

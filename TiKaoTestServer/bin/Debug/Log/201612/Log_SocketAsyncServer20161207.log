@@ -1,0 +1,530 @@
+2016-12-07 13:52:40,510 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 13:52:43,452 [10] INFO : Server disconnected
+2016-12-07 13:52:43,468 [13] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 13:52:43,482 [13] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 13:52:43,531 [13] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:07:24,656 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:07:32,319 [10] INFO : Server disconnected
+2016-12-07 14:07:32,321 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:07:32,324 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:07:32,354 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:07:32,374 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:07:32,390 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs)
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs)
+2016-12-07 14:08:11,745 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:10:35,899 [10] INFO : Server disconnected
+2016-12-07 14:10:35,909 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:10:35,912 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:10:35,943 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:10:35,971 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:10:35,975 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 14:10:58,242 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:12:11,348 [9] INFO : Server disconnected
+2016-12-07 14:12:11,357 [11] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:12:11,359 [11] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:12:11,499 [11] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:12:11,556 [11] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:12:11,559 [11] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 14:13:11,780 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:19:44,114 [9] INFO : Server disconnected
+2016-12-07 14:19:51,377 [11] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:19:52,687 [11] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:19:53,442 [11] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:19:56,862 [11] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:19:57,808 [11] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 14:20:55,938 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:21:02,323 [13] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:21:07,086 [10] INFO : Server disconnected
+2016-12-07 14:21:07,126 [13] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:21:07,160 [13] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:21:07,203 [13] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:21:07,209 [13] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 14:22:47,800 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:22:50,167 [10] INFO : Server disconnected
+2016-12-07 14:22:50,186 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:22:50,189 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:22:50,240 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:22:50,266 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:22:50,269 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 14:23:06,787 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:23:16,108 [10] INFO : Server disconnected
+2016-12-07 14:23:16,115 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:23:16,119 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:23:16,150 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:23:16,218 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:23:16,221 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs)
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs)
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs)
+2016-12-07 14:23:26,888 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 14:23:40,906 [9] INFO : Server disconnected
+2016-12-07 14:23:40,921 [11] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 14:23:40,924 [11] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 14:23:40,967 [11] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 14:23:40,995 [11] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 14:23:40,998 [11] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:03:47,125 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:04:36,148 [3] INFO : Client connection accepted. Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10035
+2016-12-07 18:04:36,476 [10] ERROR: Get client error, message: 未将对象引用设置到对象的实例。
+2016-12-07 18:04:36,476 [11] INFO : Building socket invoke element TiKaoTestOne.SqlSocketProtocol.Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10035
+2016-12-07 18:04:36,507 [10] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:04:36,632 [3] INFO : admin login success
+2016-12-07 18:06:47,474 [11] INFO : Client connection disconnected. Local Address: 127.0.0.1:9999 Remote Address: 127.0.0.1:10035
+2016-12-07 18:07:51,780 [11] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:07:51,780 [10] INFO : Server disconnected
+2016-12-07 18:07:51,827 [11] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:07:51,898 [11] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:07:51,954 [11] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:07:51,983 [11] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:09:13,924 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:09:16,857 [9] INFO : Server disconnected
+2016-12-07 18:09:16,888 [9] INFO : Server disconnected
+2016-12-07 18:09:16,935 [9] INFO : Server disconnected
+2016-12-07 18:09:16,982 [9] INFO : Server disconnected
+2016-12-07 18:09:16,982 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:09:17,029 [9] INFO : Server disconnected
+2016-12-07 18:09:17,122 [9] INFO : Server disconnected
+2016-12-07 18:09:17,185 [9] INFO : Server disconnected
+2016-12-07 18:09:17,231 [9] INFO : Server disconnected
+2016-12-07 18:09:17,278 [9] INFO : Server disconnected
+2016-12-07 18:09:17,356 [9] INFO : Server disconnected
+2016-12-07 18:09:17,356 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:09:17,419 [9] INFO : Server disconnected
+2016-12-07 18:09:17,559 [9] INFO : Server disconnected
+2016-12-07 18:09:17,606 [9] INFO : Server disconnected
+2016-12-07 18:09:17,684 [9] INFO : Server disconnected
+2016-12-07 18:09:17,684 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:09:17,731 [9] INFO : Server disconnected
+2016-12-07 18:09:17,855 [9] INFO : Server disconnected
+2016-12-07 18:09:17,918 [9] INFO : Server disconnected
+2016-12-07 18:09:17,980 [9] INFO : Server disconnected
+2016-12-07 18:09:18,043 [9] INFO : Server disconnected
+2016-12-07 18:09:18,121 [9] INFO : Server disconnected
+2016-12-07 18:09:18,230 [9] INFO : Server disconnected
+2016-12-07 18:09:18,245 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:09:18,308 [9] INFO : Server disconnected
+2016-12-07 18:09:18,448 [9] INFO : Server disconnected
+2016-12-07 18:09:18,511 [9] INFO : Server disconnected
+2016-12-07 18:09:18,604 [9] INFO : Server disconnected
+2016-12-07 18:09:18,604 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:09:18,682 [9] INFO : Server disconnected
+2016-12-07 18:09:18,823 [9] INFO : Server disconnected
+2016-12-07 18:09:18,901 [9] INFO : Server disconnected
+2016-12-07 18:09:18,979 [9] INFO : Server disconnected
+2016-12-07 18:09:19,057 [9] INFO : Server disconnected
+2016-12-07 18:09:19,150 [9] INFO : Server disconnected
+2016-12-07 18:09:19,228 [9] INFO : Server disconnected
+2016-12-07 18:09:19,306 [9] INFO : Server disconnected
+2016-12-07 18:09:19,400 [9] INFO : Server disconnected
+2016-12-07 18:09:19,478 [9] INFO : Server disconnected
+2016-12-07 18:09:19,571 [9] INFO : Server disconnected
+2016-12-07 18:09:19,665 [9] INFO : Server disconnected
+2016-12-07 18:09:19,759 [9] INFO : Server disconnected
+2016-12-07 18:09:19,852 [9] INFO : Server disconnected
+2016-12-07 18:09:19,930 [9] INFO : Server disconnected
+2016-12-07 18:09:20,024 [9] INFO : Server disconnected
+2016-12-07 18:09:20,133 [9] INFO : Server disconnected
+2016-12-07 18:09:20,227 [9] INFO : Server disconnected
+2016-12-07 18:09:20,320 [9] INFO : Server disconnected
+2016-12-07 18:09:20,429 [9] INFO : Server disconnected
+2016-12-07 18:09:20,523 [9] INFO : Server disconnected
+2016-12-07 18:09:20,632 [9] INFO : Server disconnected
+2016-12-07 18:09:20,741 [9] INFO : Server disconnected
+2016-12-07 18:09:20,835 [9] INFO : Server disconnected
+2016-12-07 18:09:20,960 [9] INFO : Server disconnected
+2016-12-07 18:09:21,069 [9] INFO : Server disconnected
+2016-12-07 18:09:21,178 [9] INFO : Server disconnected
+2016-12-07 18:09:21,287 [9] INFO : Server disconnected
+2016-12-07 18:09:21,397 [9] INFO : Server disconnected
+2016-12-07 18:09:21,506 [9] INFO : Server disconnected
+2016-12-07 18:09:21,631 [9] INFO : Server disconnected
+2016-12-07 18:09:21,740 [9] INFO : Server disconnected
+2016-12-07 18:09:21,865 [9] INFO : Server disconnected
+2016-12-07 18:09:21,974 [9] INFO : Server disconnected
+2016-12-07 18:09:22,099 [9] INFO : Server disconnected
+2016-12-07 18:09:22,223 [9] INFO : Server disconnected
+2016-12-07 18:09:22,348 [9] INFO : Server disconnected
+2016-12-07 18:09:22,473 [9] INFO : Server disconnected
+2016-12-07 18:09:22,598 [9] INFO : Server disconnected
+2016-12-07 18:09:22,723 [9] INFO : Server disconnected
+2016-12-07 18:09:22,847 [9] INFO : Server disconnected
+2016-12-07 18:09:22,972 [9] INFO : Server disconnected
+2016-12-07 18:09:23,113 [9] INFO : Server disconnected
+2016-12-07 18:09:23,237 [9] INFO : Server disconnected
+2016-12-07 18:09:23,362 [9] INFO : Server disconnected
+2016-12-07 18:09:23,503 [9] INFO : Server disconnected
+2016-12-07 18:09:23,643 [9] INFO : Server disconnected
+2016-12-07 18:09:23,783 [9] INFO : Server disconnected
+2016-12-07 18:09:23,924 [9] INFO : Server disconnected
+2016-12-07 18:09:24,064 [9] INFO : Server disconnected
+2016-12-07 18:09:24,236 [9] INFO : Server disconnected
+2016-12-07 18:09:24,376 [9] INFO : Server disconnected
+2016-12-07 18:09:24,532 [9] INFO : Server disconnected
+2016-12-07 18:09:24,673 [9] INFO : Server disconnected
+2016-12-07 18:09:24,829 [9] INFO : Server disconnected
+2016-12-07 18:09:24,969 [9] INFO : Server disconnected
+2016-12-07 18:09:25,125 [9] INFO : Server disconnected
+2016-12-07 18:09:25,281 [9] INFO : Server disconnected
+2016-12-07 18:09:25,437 [9] INFO : Server disconnected
+2016-12-07 18:09:25,609 [9] INFO : Server disconnected
+2016-12-07 18:09:25,765 [9] INFO : Server disconnected
+2016-12-07 18:09:25,921 [9] INFO : Server disconnected
+2016-12-07 18:09:26,077 [9] INFO : Server disconnected
+2016-12-07 18:09:26,248 [9] INFO : Server disconnected
+2016-12-07 18:09:26,404 [9] INFO : Server disconnected
+2016-12-07 18:09:26,576 [9] INFO : Server disconnected
+2016-12-07 18:09:26,732 [9] INFO : Server disconnected
+2016-12-07 18:09:26,903 [9] INFO : Server disconnected
+2016-12-07 18:09:27,153 [9] INFO : Server disconnected
+2016-12-07 18:09:27,387 [9] INFO : Server disconnected
+2016-12-07 18:09:27,559 [9] INFO : Server disconnected
+2016-12-07 18:09:27,746 [9] INFO : Server disconnected
+2016-12-07 18:09:27,917 [9] INFO : Server disconnected
+2016-12-07 18:09:28,089 [9] INFO : Server disconnected
+2016-12-07 18:09:28,261 [9] INFO : Server disconnected
+2016-12-07 18:11:05,759 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:11:10,164 [9] INFO : Server disconnected
+2016-12-07 18:11:10,179 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:11:10,273 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:11:10,320 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:13:06,187 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:13:07,778 [9] INFO : Server disconnected
+2016-12-07 18:13:07,778 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:13:07,981 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:13:39,618 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:13:41,412 [10] INFO : Server disconnected
+2016-12-07 18:13:41,428 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:13:41,490 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:25:19,236 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-07 18:25:29,045 [12] INFO : Client connection accepted. Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10234
+2016-12-07 18:25:29,201 [9] ERROR: Get client error, message: 未将对象引用设置到对象的实例。
+2016-12-07 18:25:29,201 [15] INFO : Building socket invoke element TiKaoTestOne.SqlSocketProtocol.Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10234
+2016-12-07 18:25:29,232 [9] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:25:29,248 [12] INFO : admin login success
+2016-12-07 18:25:29,342 [15] ERROR: sqlmap
+2016-12-07 18:25:54,430 [12] INFO : admin login success
+2016-12-07 18:25:54,493 [12] ERROR: mspZlrHZlEyFAQ8rTHqBEjZNfQEOMsIxwRJFwyyBE07EH4EOU0gfwQZMSyTBDkXGO8ERR8s/AQg/TUUBDDlPFAEYxE8RQRi/UFUBOb9RTAEpubBwgQd2MUIBCWFDYUEeC8FvgQ0YLWsBBwKxhEELDjpvwQwMxINBDiMtWYEK5baDgQaGuGDBB+1ScoESQLR5QQgNpWdBDAC5RgEI2x9OgQfcpXPBBnidOsEF3DIrAQXTNlFBCmfHDcETwlJgQS1yyG1BDyklIkEE10Q3wRbJTGFBW0JSVQFWppmDAQ0BSSsBEUWmJgEDXhdKgQhkR4tBEB8SKcEF1RNLQQvbFFlBDODNX4EnVtFeQTnBT1ABFCxNakEfPVDUEhgCE1ZbW1xeYWVnaW5zdwQGCQoOEQITVFhZXF5gZGdqcHN3BAcJCw8TAhNVWFldX2NmaGlrcXYDBwkKDhIBE1NUWFtcXl5iZmtwc3cFCQ0PExYCE1ZZW11gZGdnaGpxdgMICQoMEgETVFVXV1lcXGBka3B0AQYMEBMXGgISVldbXmFkZWVnanB1AgYGBwgBE1RVVlZWWFldYmlwdgQKDxUWGRsCElZYXF5hZGVlZ2twc3YCAwQFARNRU1RUVFVXW2BncAIJDxMXGBobAhJWWFxfYWNkZGVpbHBzdXZ3AgETTE9QU1FTU1ZZY3AFDxYZGxoaGQISV1hcXmBiZGNkZ2pub3Fyc3cAE0FIS05RTExLTVFcbggWHB8fHRsaAhFYWVxdX2FiYWFlaW1ubm5vABM+RUlLSUNFQ0VFTU8iIyYnJiMfHAMRW1tcXmBhYWFlaWtqa2tpABI3QENHREFBPz4+REY/MzEuKyUiBBFbXV9gYWFiZmhpaWxtawARNTpAREE/Pj06OD5GRjs2MzArBRBdX2BgYGNlZGVobXABEDk+REA+PTo4MRJoWEU5NDEY8C4ZtKlQFCEBNN1UNrF/aTpeaXXuC8NaYhJ+jf6B8kr5+oiyogSRZ4Te8+/tCVFVy9AvSHqQp2jBXX+qDCsmxmxIdO7o2+h/PBYEtJ/bX2FH3Qi9CXOE3Dw9Coqnk0Ukbag93FmdwV1VNJaGaj+6YYxK75zBIBA5Mw//jNnGJFpmLh5wznjteSD5RfqwMXkdGzZHGL5Uen9HyAURUhn2nwlfB6aK0qqrXi2tiqX5Wv3mrr+9kuWCdqpZQTxQlS80PwGVe9m4hzkc/HroR8MUR7KfS0l+HX38oT53CNiGdnrLNBBm1c9dWPSlME/Fc7EGcQ4S15xPSQRny5hSASu4Zey0HQ+QUmm/W0lG49H61JfHK14l2DMR94dpkaU5TE5ITH9xkwDSgOLzlcjAnPg7JJrscwN77ctUuXcYGBgYGBgYGBgYGBgYGA==
+2016-12-07 18:26:45,535 [11] INFO : Client connection disconnected. Local Address: 127.0.0.1:9999 Remote Address: 127.0.0.1:10234
+2016-12-07 18:27:12,227 [11] INFO : Client connection accepted. Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10245
+2016-12-07 18:27:12,273 [10] INFO : Building socket invoke element TiKaoTestOne.SqlSocketProtocol.Local Address: 127.0.0.1:9999, Remote Address: 127.0.0.1:10245
+2016-12-07 18:27:12,320 [11] INFO : admin login success
+2016-12-07 18:27:15,616 [11] ERROR: sqlmap
+2016-12-07 18:27:40,791 [7] INFO : admin login success
+2016-12-07 18:28:40,965 [7] ERROR: mspZVqfFlEZ/gRUyxoLBEjE+HUEGVkAkwQpQRCVBDErGRYEKPMhLwQ4tyVFBFTPMS0EOL78twRBMxDBBFEbFLEETRcaRwQ0tR5YBESXGYcFMQcdmAUhBp2yBBwAqiAELDKhbAQrjr4eBBoU0c8ELCkKIAQshs2QBCeq8g8EMIC18wQkMwUGBE0RCc4EQKE1lQTlyO3TBDxW+ZUEeCspXwT21LS2BBdGrQ4EJXip0gQh3ISfBBVzAkAEMHh9pQQvuDlcBEN0SggEMAQ4oAQbSDkwBDtUbTQEE2Z50wQZ2mTpBBtqSSUEIY8YnAQy7wDuBFcihIUEF1UdwgR87SzRxGAITVlhZW11fYWRobXB0AQYJDBMfAhNUV1lZXF1fYmhtcXQCBwwPGCUCE1ZZW1tcX2JlZmtwdHcEBgkMFwETU1RXV1hZW11gZm1zdgMIDhEZIAITVlhZW11gYmRkaG1zdwQFCAoSARNSUlVWV1dXWV1jbHQCBgsPFBshAhNXWVtbXWBjZWVobnQBBAUICREBE1NUVVRVVVZXXGFqdgYMEhQXGyACEldYW1xdYGJkZGhudAEFBQcHARNOUFJSUlJSUlZbZgILExgZGh0iAhJWWFtcXmFiZGVpbnN2AgMFBQATRUtOUFBMSkhISk5XBRQaHx8gIyYCElVXW11fYGJjZWltcXN2dwMDABNAREhLS0ZDQUBAQkYtIiYqKyooJwIRVVZZXF9gYWFiZmlucHJ0dQATPUNFSERAPz49OjtFRDs3MzAuLS0CEVdXWVtdX2BfX2Nna2xvcXIAEjc+QUVCPz47OTUt////OzY0MC4DEVdYW11fX15fY2Zqa21vcAAINj1ARUE+Ozk4BBBYW11gYF9gY2dqamtvAQQ4O0NBGPBbGbSpUBQhdTbHkPBF2DOLMUUQAs+sZJzjUjKtyW5qNZwWtdJEjNriTx410Oxv/+eeCKnXoY4HQ0J5SWgQH0xHE6Aqwsv9ExTqc1bA/KBZ5bkMklK4+G0o5T3y1+suJ2o5sq8j2c/hLKx7pk3IL3kr+rA0o4kT2vR0q1xEQwC5j7ku5dNFfnLcmrAIk0ZumZCmsop7OGXXh2Hk8W4M3FmPcFFI3AEV3mV0Ps0i09nj9zdv36SXRvrm9ljXPpDb8ySJTHY8M0RJhJMqmCyxce7+4SLkdCivE6LRVE4ZDTneZvNdL8OY4ktPSj2F3dPHZH5ruUvlz3eUB3zXM72/p6mONHyPSh8LaU4kcdP14N8CEjf3wOakDelB9khRpjcsVvhM3blWyQ5iDB/9wsuF6dPVJFQkZ3Eq9gUxJKpBQS6xXS+vlf7Gdxg=
+2016-12-07 18:30:41,520 [10] INFO : Client connection disconnected. Local Address: 127.0.0.1:9999 Remote Address: 127.0.0.1:10245
+2016-12-07 18:32:07,897 [10] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-07 18:32:07,897 [9] INFO : Server disconnected
+2016-12-07 18:32:07,928 [10] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-07 18:32:08,006 [10] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:32:08,084 [10] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:32:08,131 [10] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:49:02,236 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 18:49:28,699 [12] INFO : 客户端连接成功. 客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:10713
+2016-12-07 18:49:28,787 [3] INFO : 构建套接字调用元素 TiKaoTestOne.SqlSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:10713
+2016-12-07 18:49:28,838 [12] INFO : admin 登录成功
+2016-12-07 18:50:14,475 [3] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 18:50:14,475 [10] INFO : 服务器已关闭
+2016-12-07 18:50:14,515 [3] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 18:50:14,579 [3] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:50:14,628 [3] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:50:14,660 [3] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:56:15,578 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 18:56:17,444 [10] INFO : 服务器已关闭
+2016-12-07 18:56:17,446 [13] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 18:56:17,510 [13] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 18:56:17,611 [10] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 18:56:17,630 [10] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:56:17,630 [13] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:56:17,689 [13] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:56:17,729 [13] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:57:06,927 [10] INFO : 服务器已关闭
+2016-12-07 18:57:34,751 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 18:57:36,392 [9] INFO : 服务器已关闭
+2016-12-07 18:57:36,405 [12] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 18:57:36,474 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 18:57:36,568 [9] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 18:57:36,587 [9] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:57:36,674 [9] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 18:57:36,681 [9] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:57:36,681 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:57:36,741 [12] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:57:36,781 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:57:42,998 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 18:58:03,831 [9] INFO : 服务器已关闭
+2016-12-07 18:58:03,831 [12] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 18:58:03,925 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 18:58:04,085 [9] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 18:58:04,092 [9] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 18:58:04,122 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:58:04,224 [12] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:58:04,302 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:59:16,035 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 18:59:17,728 [9] INFO : 服务器已关闭
+2016-12-07 18:59:17,738 [12] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 18:59:17,802 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 18:59:17,863 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 18:59:17,921 [12] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 18:59:17,961 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 18:59:30,249 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:00:13,609 [9] INFO : 服务器已关闭
+2016-12-07 19:00:13,609 [12] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 19:00:13,724 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 19:00:13,828 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 19:00:13,908 [12] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 19:02:24,366 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:02:26,698 [9] INFO : 服务器已关闭
+2016-12-07 19:02:26,699 [12] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 19:02:26,754 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 19:02:26,821 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 19:02:26,882 [12] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 19:02:26,924 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 19:02:36,888 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:02:41,329 [9] INFO : 服务器已关闭
+2016-12-07 19:02:41,333 [15] INFO : 客户端连接成功. 客户端地址: , 远程地址: 
+2016-12-07 19:02:41,369 [15] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 19:02:41,433 [15] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 19:02:41,490 [15] ERROR: 客户端连接  失败, 出错信息: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-07 19:02:41,533 [15] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-07 19:02:46,949 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:04:15,653 [9] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:04:18,554 [9] INFO : 服务器已关闭
+2016-12-07 19:04:18,566 [12] INFO : 客户端断开连接. 客户端地址:  远程地址: 
+2016-12-07 19:04:18,654 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 19:04:54,559 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:04:56,767 [10] INFO : 服务器已关闭
+2016-12-07 19:04:56,793 [12] ERROR: 关闭客户端 客户端地址:  远程地址:  出错,出错信息: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-07 19:05:03,561 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:05:32,615 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:05:35,092 [10] INFO : 服务器已关闭
+2016-12-07 19:05:36,547 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:05:38,079 [10] INFO : 服务器已关闭
+2016-12-07 19:05:39,704 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:05:40,886 [10] INFO : 服务器已关闭
+2016-12-07 19:06:34,017 [8] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:06:38,965 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:06:38,967 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:06:38,969 [10] INFO : 构建套接字调用元素 TiKaoTestOne.ControlSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:10992
+2016-12-07 19:06:39,156 [10] INFO : 构建套接字调用元素 TiKaoTestOne.LogOutputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:10993
+2016-12-07 19:06:39,183 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:06:39,231 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:06:39,234 [10] INFO : admin 登录成功
+2016-12-07 19:10:01,727 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:01,727 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:02,008 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:02,013 [13] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11043
+2016-12-07 19:10:02,022 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:02,040 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11044
+2016-12-07 19:10:02,040 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11045
+2016-12-07 19:10:02,042 [10] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11046
+2016-12-07 19:10:02,077 [13] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11047
+2016-12-07 19:10:02,122 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11048
+2016-12-07 19:10:02,272 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:02,300 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11049
+2016-12-07 19:10:02,337 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:02,356 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11050
+2016-12-07 19:10:02,356 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11051
+2016-12-07 19:10:02,410 [13] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11052
+2016-12-07 19:10:02,468 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11058
+2016-12-07 19:10:02,514 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11057
+2016-12-07 19:10:02,735 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11056
+2016-12-07 19:10:02,820 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:02,823 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11054
+2016-12-07 19:10:02,847 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11055
+2016-12-07 19:10:02,872 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11053
+2016-12-07 19:10:02,913 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11064
+2016-12-07 19:10:02,956 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11063
+2016-12-07 19:10:03,015 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11062
+2016-12-07 19:10:03,054 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11060
+2016-12-07 19:10:03,115 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11059
+2016-12-07 19:10:03,155 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11061
+2016-12-07 19:10:03,197 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11065
+2016-12-07 19:10:03,237 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11072
+2016-12-07 19:10:03,280 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11071
+2016-12-07 19:10:03,348 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11070
+2016-12-07 19:10:03,406 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11069
+2016-12-07 19:10:03,449 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11068
+2016-12-07 19:10:03,489 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11067
+2016-12-07 19:10:03,536 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11066
+2016-12-07 19:10:03,598 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11080
+2016-12-07 19:10:03,640 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11079
+2016-12-07 19:10:03,682 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11078
+2016-12-07 19:10:03,724 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11077
+2016-12-07 19:10:03,783 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11076
+2016-12-07 19:10:03,839 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11075
+2016-12-07 19:10:03,905 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11074
+2016-12-07 19:10:03,910 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11073
+2016-12-07 19:10:03,966 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11085
+2016-12-07 19:10:04,013 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11083
+2016-12-07 19:10:04,061 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11082
+2016-12-07 19:10:04,107 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11081
+2016-12-07 19:10:04,156 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11107
+2016-12-07 19:10:04,219 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11093
+2016-12-07 19:10:04,267 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11109
+2016-12-07 19:10:04,318 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11091
+2016-12-07 19:10:04,391 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11111
+2016-12-07 19:10:04,485 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11089
+2016-12-07 19:10:04,490 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11116
+2016-12-07 19:10:04,541 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11113
+2016-12-07 19:10:04,589 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11087
+2016-12-07 19:10:04,642 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11101
+2016-12-07 19:10:04,703 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11118
+2016-12-07 19:10:04,771 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11099
+2016-12-07 19:10:04,823 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11120
+2016-12-07 19:10:04,873 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11097
+2016-12-07 19:10:04,926 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11122
+2016-12-07 19:10:05,071 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11095
+2016-12-07 19:10:05,121 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:05,124 [9] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11128
+2016-12-07 19:10:05,170 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11105
+2016-12-07 19:10:05,234 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11126
+2016-12-07 19:10:05,280 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11103
+2016-12-07 19:10:05,321 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11124
+2016-12-07 19:10:05,377 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11136
+2016-12-07 19:10:05,419 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11134
+2016-12-07 19:10:05,460 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11132
+2016-12-07 19:10:05,504 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11130
+2016-12-07 19:10:05,547 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11142
+2016-12-07 19:10:05,594 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11140
+2016-12-07 19:10:05,635 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11138
+2016-12-07 19:10:05,677 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11150
+2016-12-07 19:10:05,736 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11148
+2016-12-07 19:10:05,778 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11146
+2016-12-07 19:10:05,819 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11144
+2016-12-07 19:10:05,860 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11159
+2016-12-07 19:10:05,922 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11157
+2016-12-07 19:10:05,981 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11155
+2016-12-07 19:10:06,022 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11153
+2016-12-07 19:10:06,062 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11165
+2016-12-07 19:10:06,108 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11163
+2016-12-07 19:10:06,173 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11161
+2016-12-07 19:10:06,223 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11169
+2016-12-07 19:10:06,283 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11167
+2016-12-07 19:10:06,331 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11084
+2016-12-07 19:10:06,399 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11086
+2016-12-07 19:10:06,482 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11088
+2016-12-07 19:10:06,556 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11090
+2016-12-07 19:10:06,624 [19] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11092
+2016-12-07 19:10:06,663 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11094
+2016-12-07 19:10:06,831 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11096
+2016-12-07 19:10:06,973 [19] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11098
+2016-12-07 19:10:07,075 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:07,249 [14] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11100
+2016-12-07 19:10:07,257 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11104
+2016-12-07 19:10:07,327 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:07,360 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11106
+2016-12-07 19:10:07,368 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11102
+2016-12-07 19:10:07,421 [15] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11108
+2016-12-07 19:10:07,473 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11110
+2016-12-07 19:10:07,487 [19] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11112
+2016-12-07 19:10:07,678 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11115
+2016-12-07 19:10:07,761 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11117
+2016-12-07 19:10:07,796 [19] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11119
+2016-12-07 19:10:07,900 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11121
+2016-12-07 19:10:07,933 [17] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11123
+2016-12-07 19:10:08,020 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11125
+2016-12-07 19:10:08,027 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11127
+2016-12-07 19:10:08,069 [22] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11129
+2016-12-07 19:10:08,110 [21] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11131
+2016-12-07 19:10:08,122 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11133
+2016-12-07 19:10:08,234 [21] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11135
+2016-12-07 19:10:08,278 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11137
+2016-12-07 19:10:08,363 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11139
+2016-12-07 19:10:08,375 [23] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11141
+2016-12-07 19:10:08,639 [22] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11143
+2016-12-07 19:10:08,663 [16] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11145
+2016-12-07 19:10:08,769 [18] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11147
+2016-12-07 19:10:08,853 [21] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11149
+2016-12-07 19:10:08,900 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:08,979 [24] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11151
+2016-12-07 19:10:08,996 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11154
+2016-12-07 19:10:09,018 [23] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11156
+2016-12-07 19:10:09,103 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:10:09,115 [21] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11158
+2016-12-07 19:10:09,200 [25] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11160
+2016-12-07 19:10:09,483 [24] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11162
+2016-12-07 19:10:09,500 [19] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11164
+2016-12-07 19:10:09,637 [8] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:10:09,684 [20] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11166
+2016-12-07 19:10:09,705 [21] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11168
+2016-12-07 19:10:09,951 [24] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11170
+2016-12-07 19:10:09,965 [22] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11152
+2016-12-07 19:10:10,033 [23] INFO : 构建套接字调用元素 TiKaoTestOne.ThroughputSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11114
+2016-12-07 19:10:10,522 [8] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:11:55,859 [8] INFO : 服务器已关闭
+2016-12-07 19:12:15,565 [10] INFO : 服务器开启 127.0.0.1:9999 成功
+2016-12-07 19:12:21,684 [10] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:12:21,686 [10] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:12:21,700 [15] INFO : 构建套接字调用元素 TiKaoTestOne.SqlSocketProtocol.客户端地址: 127.0.0.1:9999, 远程地址: 127.0.0.1:11194
+2016-12-07 19:12:21,780 [10] ERROR: 客户端列表获取失败,Message:未将对象引用设置到对象的实例。
+2016-12-07 19:12:21,837 [10] ERROR:    在 TiKaoTestOne.SocketTiKao.GetClientItem() 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\SocketTiKao.cs:行号 86
+2016-12-07 19:12:21,859 [15] INFO : admin 登录成功
+2016-12-07 19:12:28,188 [10] INFO : 服务器已关闭

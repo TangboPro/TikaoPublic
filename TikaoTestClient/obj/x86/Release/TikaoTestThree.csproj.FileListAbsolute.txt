@@ -1,0 +1,22 @@
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Release\TikaoTestThree.exe
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Release\TikaoTestThree.pdb
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.Form1.resources
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.Properties.Resources.resources
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.csproj.GenerateResource.Cache
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.exe
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.pdb
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Release\TikaoTestThree.exe.config
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Release\TikaoTestThree.csprojResolveAssemblyReference.cache
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Release\AxInterop.ZKFPEngXControl.dll
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Release\Interop.ZKFPEngXControl.dll
+C:\Users\Tang\Desktop\TikaoTestThree\bin\x86\Release\TikaoTestThree.exe.config
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.exe
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.pdb
+C:\Users\Tang\Desktop\TikaoTestThree\bin\x86\Release\TikaoTestThree.exe
+C:\Users\Tang\Desktop\TikaoTestThree\bin\x86\Release\TikaoTestThree.pdb
+C:\Users\Tang\Desktop\TikaoTestThree\bin\x86\Release\AxInterop.ZKFPEngXControl.dll
+C:\Users\Tang\Desktop\TikaoTestThree\bin\x86\Release\Interop.ZKFPEngXControl.dll
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.csprojResolveAssemblyReference.cache
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.Form1.resources
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.Properties.Resources.resources
+C:\Users\Tang\Desktop\TikaoTestThree\obj\x86\Release\TikaoTestThree.csproj.GenerateResource.Cache

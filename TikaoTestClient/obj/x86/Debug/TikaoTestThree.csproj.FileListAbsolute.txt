@@ -1,0 +1,9 @@
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Debug\TikaoTestThree.exe
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Debug\TikaoTestThree.pdb
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Debug\AxInterop.ZKFPEngXControl.dll
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\bin\x86\Debug\Interop.ZKFPEngXControl.dll
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Debug\TikaoTestThree.Form1.resources
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Debug\TikaoTestThree.Properties.Resources.resources
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Debug\TikaoTestThree.csproj.GenerateResource.Cache
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Debug\TikaoTestThree.exe
+C:\Users\Tang\Documents\Visual Studio 2013\Projects\TikaoTestThree\obj\x86\Debug\TikaoTestThree.pdb

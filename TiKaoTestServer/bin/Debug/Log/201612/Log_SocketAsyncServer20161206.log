@@ -1,0 +1,40 @@
+2016-12-06 16:39:41,099 [9] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-06 16:39:46,169 [9] INFO : Server disconnected
+2016-12-06 16:39:46,169 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-06 16:39:46,184 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-06 16:39:46,372 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-06 16:39:46,497 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-06 16:58:26,307 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-06 17:00:52,654 [10] INFO : Server disconnected
+2016-12-06 17:00:52,658 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-06 17:00:52,661 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-06 17:00:52,697 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-06 17:00:52,729 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-06 17:00:52,732 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-06 17:01:04,211 [10] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-06 17:01:24,018 [12] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-06 17:01:24,020 [12] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-06 17:01:24,053 [12] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-06 17:01:24,068 [10] INFO : Server disconnected
+2016-12-06 17:01:24,079 [12] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-06 17:01:24,083 [12] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 142
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 103
+2016-12-06 17:03:51,961 [11] INFO : Start listen socket 127.0.0.1:9999 success
+2016-12-06 17:03:55,841 [11] INFO : Server disconnected
+2016-12-06 17:03:55,843 [13] INFO : Client connection accepted. Local Address: , Remote Address: 
+2016-12-06 17:03:55,847 [13] INFO : Client connection disconnected. Local Address:  Remote Address: 
+2016-12-06 17:03:55,875 [13] ERROR: CloseClientSocket Disconnect client Local Address:  Remote Address:  error, message: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2016-12-06 17:03:55,904 [13] ERROR: Accept client  error, message: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2016-12-06 17:03:55,914 [13] ERROR:    在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 TiKaoTestOne.AsyncSocketServer.StartAccept(SocketAsyncEventArgs acceptEventArgs) 位置 c:\Users\Tang\Desktop\TiKaoTestOne\AsyServerSocket\AsyncSocketCore\AsyncSocketServer.cs:行号 91
+   在 TiKaoTestOne.AsyncSocketServer.ProcessAccept(SocketAsyncEventArgs acceptEventArgs)
+   在 TiKaoTestOne.AsyncSocketServer.AcceptEventArg_Completed(Object sender, SocketAsyncEventArgs acceptEventArgs)
